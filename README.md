@@ -3,6 +3,7 @@
 pdf and codes for my master thesis
 
 CODE FOLDER
+
 main codes:
 - multiple: run the simulations, merge the results, create and save the tables
 - roots_plot: plot the VAR and VMA roots in different scenarios
